@@ -46,6 +46,7 @@ public class MainActivity extends BluetoothActivity implements View.OnClickListe
             requestPermissions(new String[]{Manifest.permission.ACCESS_COARSE_LOCATION}, PERMISSION_REQUEST_COARSE_LOCATION);
         }
         EventBus.getDefault().register(MainActivity.this);
+
     }
 
     @Override
