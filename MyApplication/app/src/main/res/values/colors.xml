@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="black_2">#DF000000</color>
+    <color name="transparent_black_light">#44000000</color>
+    <color name="transparent_black_normal">#66000000</color>
+    <color name="orange">#FFFF6600</color>
+    <color name="orange_2">#F4990B</color>
+    <color name="green">#97C535</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="white_background">#FFEEEEEE</color>
+    <color name="transparent_half">#77FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="black_half_transparent">#88000000</color>
+    <color name="red">#FFFF0000</color>
+    <color name="gray_dark">#FFb3b3b3</color>
+    <color name="gray_light">#888888</color>
+    <color name="gray_2">#505050</color>
+    <color name="gray_text">#898989</color>
+    <color name="gray_text_light">#bfbfbf</color>
+    <color name="orange_dark">#FFFF4400</color>
+    <color name="blue">#329CC8</color>
+    <color name="price">#ED9400</color>
+    <color name="black_text">#434343</color>
+    <color name="dark_text">#707070</color>
+    <color name="bg_top_tips">#F4F4F4</color>
+    <color name="text_color_gray">#898989</color>
+    <color name="background_gray">#EEEEEE</color>
+    <color name="text_color_orange">#ED9400</color>
+    <color name="text_color_orange_pressed">#BE7600</color>
+    <color name="gray_light_2">#F4F4F4</color>
+    <color name="white_transparent_half">#77FFFFFF</color>
+    <color name="white_transparent_little">#CCFFFFFF</color>
+
+    <!-- text colors -->
+    <!-- 87% of #000000: text -->
+    <color name="text_primary">#DF000000</color>
+    <!-- 54% of #000000: secondary text / icons -->
+    <color name="text_secondary">#8A000000</color>
+    <!-- 26% of #000000: hint text -->
+    <color name="text_hint">#43000000</color>
+    <!-- 12% of #000000: dividers text -->
+    <color name="divider">#1F000000</color>
+
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_orange">#ED9400</color>
+    <color name="text_gray_light">#707070</color>
+    <color name="text_green">#97C535</color>
+    <color name="text_blue">#329CC8</color>
+    <color name="text_red">#FFFF0000</color>
+</resources>

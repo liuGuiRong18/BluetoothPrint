@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center_vertical"
+                android:paddingBottom="@dimen/default_ui_margin"
+                android:paddingLeft="@dimen/default_ui_margin_large"
+                android:paddingRight="@dimen/default_ui_margin_large"
+                android:paddingTop="@dimen/default_ui_margin">
+
+    <TextView
+        android:id="@+id/btn_adapter_bt_has_bond"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/default_ui_margin"
+        android:gravity="center"
+        android:paddingBottom="@dimen/default_ui_margin"
+        android:paddingLeft="@dimen/default_ui_margin_large"
+        android:paddingRight="@dimen/default_ui_margin_large"
+        android:paddingTop="@dimen/default_ui_margin"
+        android:textColor="@color/text_primary"/>
+
+    <TextView
+        android:id="@+id/txt_adapter_bt_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/btn_adapter_bt_has_bond"
+        android:textColor="@color/text_primary"
+        android:textSize="@dimen/text_size_medium"/>
+
+    <TextView
+        android:id="@+id/txt_adapter_bt_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_adapter_bt_name"
+        android:layout_marginTop="@dimen/default_ui_margin"
+        android:layout_toLeftOf="@id/btn_adapter_bt_has_bond"
+        android:textColor="@color/text_primary"/>
+
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- default item size -->
+    <dimen name="default_img_size">96dp</dimen>
+    <dimen name="default_ui_height">48dp</dimen>
+    <dimen name="default_button_height">40dp</dimen>
+    <dimen name="default_button_margin_vertical">4dp</dimen>
+    <dimen name="default_button_margin_horizontal">4dp</dimen>
+    <dimen name="default_button_text_size">16dp</dimen>
+
+    <dimen name="default_icon_size">32dp</dimen>
+    <dimen name="default_icon_margin">8dp</dimen>
+
+    <dimen name="default_ui_margin_very_small">2dp</dimen>
+    <dimen name="default_ui_margin_small">4dp</dimen>
+    <dimen name="default_ui_margin">8dp</dimen>
+    <dimen name="default_ui_margin_medium">12dp</dimen>
+    <dimen name="default_ui_margin_large">16dp</dimen>
+    <dimen name="default_ui_margin_huge">32dp</dimen>
+
+    <dimen name="text_size_micro">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_huge">26sp</dimen>
+</resources>
